@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Caveat", cursive, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: gray;
+}
+
+.articles {
+    background-color: rgb(63, 145, 145);
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.2em;
+    background-color: blueviolet;
+}
+
+.avatar {
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+.listik {
+    margin-left: 70px;
+    font-size: 1.5em;
+}
+
+.menu {
+    list-style: square;
+    text-align: left;
+    font-size: 1.1em;
+    background-color: rgb(63, 145, 145);
+}
+
+h3 {
+    background-color: rgba(124, 95, 231, 0.548);
+    font-size: 2em;
+}
+
+.bushidoj {
+    border: solid 3px;
+    border-radius: 0% 50%;
+    width: 100%;
+}
+
+.obushido {
+    border: solid 3px;
+    box-shadow: 10px 5px 5px black;
+}
+
+blockquote {
+    background-color: aquamarine;
+}
+
+ul {
+    padding: 20px;
+}
+
+dt {
+    font-size: 1.5em;
+}
+
+dd {
+    font-size: 1.3em;
+}
+
+p {
+    font-size: 1.5em;
+    background-color: green;
+}
+
+footer {
+    font-size: 1.5em;
+    background-color: gray;
+    padding: 20px 50px;
+}
+
+.footerclass {
+    font-size: 1.5em;
+    background-color: gray;
+}
+
+figcaption {
+    font-size: 1.1em;
+    background-color: blueviolet;
+}
+
+h4 {
+    font-size: 1.2em;
+    background-color: aquamarine;
+}
+
+ul {
+    font-size: 2em;
+    background-color: green;
+}
